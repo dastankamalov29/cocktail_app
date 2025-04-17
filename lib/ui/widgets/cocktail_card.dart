@@ -75,7 +75,7 @@ class CocktailCard extends StatelessWidget {
                     height: 30,
                     width: 30,
                     decoration: const BoxDecoration(
-                      color: Color(0xFF7B8B27), // цвет иконки как в макете
+                      color: Color(0xFF7B8B27),
                       shape: BoxShape.circle,
                     ),
                     child: const Icon(Icons.arrow_outward,
